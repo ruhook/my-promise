@@ -11,6 +11,7 @@
 - [x] race
 - [x] resolve
 - [x] reject
+- [x] catch
 
 ### 辅助性api
 
